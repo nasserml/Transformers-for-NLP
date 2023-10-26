@@ -59,7 +59,7 @@ Welcome to the "Beginner's Corner" of the Transformers-for-NLP repository. In th
 
 ## Data Science: Transformers for Natural Language Processing
 
-If you're interested in diving deeper into NLP and Transformers, you might want to check out the [Data Science course on Udemy](insert-udemy-course-link-here). This course covers a wide range of NLP topics and provides a comprehensive understanding of Transformers and their applications in NLP.
+If you're interested in diving deeper into NLP and Transformers, you might want to check out the [Data Science course on Udemy](https://www.udemy.com/course/data-science-transformers-nlp/?kw=trans&src=sac). This course covers a wide range of NLP topics and provides a comprehensive understanding of Transformers and their applications in NLP.
 
 [Data Science: Transformers for Natural Language Processing](https://www.udemy.com/course/data-science-transformers-nlp/?kw=trans&src=sac)
 -
